@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/smit11001/Notekeeper_app/assets/113500028/daed309e-05db-498b-9c61-3d566a6c7f9c
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/smit11001/Notekeeper_app/assets/113500028/5ffe1285-4f1b-4276-8a8b-c91a3da023c6)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
